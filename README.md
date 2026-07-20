@@ -1,2 +1,1 @@
-# Panel
-Dialog login key
+
